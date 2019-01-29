@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: Just who the hell you think I am?
+title: About Me
+subtitle: So you want to know my origin story?
 permalink: /about/
 ---
 
