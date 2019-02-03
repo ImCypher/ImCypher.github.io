@@ -5,8 +5,12 @@ subtitle: So you want to know my origin story?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![Profile Pic]({{ site.baseurl }}/images/BNWprofilepic.jpg)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Hello, my name is Joseph Cook. I've been a software developer and IT professional since 2014.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I have been living and working in the northern Indiana area while being married to my amazing wife, Shannon.
+
+My current skills include programming in C#, database management, and end user assistance.
+
+I am currently working on this website by creating content and learning Python. 
